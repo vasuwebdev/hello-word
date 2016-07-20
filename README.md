@@ -1,2 +1,2 @@
 # hello-word
-just another repository
+Hello this is srinivas webdeveloper
